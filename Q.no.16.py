@@ -1,0 +1,1 @@
+# 16 write a function that takes a string as a argument and returns the first consonant present in string
